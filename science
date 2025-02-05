@@ -1,0 +1,5 @@
+#/bin/bash
+for science in biology chemistry physics
+do
+ echo "science is $science"
+done
